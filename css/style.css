@@ -1,0 +1,38 @@
+body {
+    background-color: #FEF5ED;
+    font-family: Georgia, serif;
+}
+
+hr {   
+    border-color: #D3E4CD;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width: 5%;
+}
+
+img {
+    height: 200px;
+    border-radius: 100%;
+}
+
+
+h1 {
+    color: #99A799;
+}
+
+h3 {
+    color: #99A799;
+}
+
+td {
+    color: #ADC2A9;
+}
+
+th {
+    color: #ADC2A9;
+}
+
+li {
+    color: #ADC2A9;
+}
